@@ -1,7 +1,7 @@
 import random
 
-# Computer's random choice
-# computer = random.choice([1, 2, 3])
+
+
 
 # Dictionaries for conversion
 yourDict = {"R": 1, "P": 2, "S": 3}
