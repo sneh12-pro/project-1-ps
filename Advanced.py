@@ -68,5 +68,5 @@ while True:
         print(f"🧠 Computer: {comp_score} wins")
         print(f"🤝 Draws: {draws}")
         print(f"🎯 Total Rounds Played: {rounds}")
-        print("----------------------------")
+        print("-----------------------------")
         break
